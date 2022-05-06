@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FormValidation</string>
+    <string name="form_validation">Bill Slip</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name:</string>
+    <string name="Item">Item:</string>
+    <string name="Rate">Rate:</string>
+    <string name="Button">Submit</string>
+    <string name="Total">Total:</string>
+    <string name="Discount">Discount:</string>
+    <string name="DisValue">Discount Value:</string>
+    <string name="NetTotal">Net Total:</string>
+    <string name="GST">GST:</string>
+    <string name="GstValue">GST Value:</string>
+    <string name="GrandTotal">GrandTotal:</string>
+
+</resources>
